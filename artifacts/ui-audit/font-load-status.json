@@ -1,0 +1,569 @@
+[
+  {
+    "viewport": "desktop",
+    "screen": "landing",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "desktop",
+    "screen": "registration",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "desktop",
+    "screen": "tutorial-practice-result",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "desktop",
+    "screen": "levels",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "desktop",
+    "screen": "login",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "desktop",
+    "screen": "round",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "desktop",
+    "screen": "result",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "desktop",
+    "screen": "profile",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "zoom-125-equivalent",
+    "screen": "profile",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "zoom-200-equivalent",
+    "screen": "profile",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "wide",
+    "screen": "landing",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "wide",
+    "screen": "registration",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "wide",
+    "screen": "tutorial-practice-result",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "wide",
+    "screen": "levels",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "wide",
+    "screen": "login",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "wide",
+    "screen": "round",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "wide",
+    "screen": "result",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "wide",
+    "screen": "profile",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "zoom-125-equivalent",
+    "screen": "profile",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "zoom-200-equivalent",
+    "screen": "profile",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "laptop-1366",
+    "screen": "landing",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "laptop-1366",
+    "screen": "registration",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "laptop-1366",
+    "screen": "tutorial-practice-result",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "laptop-1366",
+    "screen": "levels",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "laptop-1366",
+    "screen": "login",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "laptop-1366",
+    "screen": "round",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "laptop-1366",
+    "screen": "result",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "laptop-1366",
+    "screen": "profile",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "zoom-125-equivalent",
+    "screen": "profile",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "zoom-200-equivalent",
+    "screen": "profile",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "laptop-1280",
+    "screen": "landing",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "laptop-1280",
+    "screen": "registration",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "laptop-1280",
+    "screen": "tutorial-practice-result",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "laptop-1280",
+    "screen": "levels",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "laptop-1280",
+    "screen": "login",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "laptop-1280",
+    "screen": "round",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "laptop-1280",
+    "screen": "result",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "laptop-1280",
+    "screen": "profile",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "zoom-125-equivalent",
+    "screen": "profile",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "zoom-200-equivalent",
+    "screen": "profile",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "tablet-landscape",
+    "screen": "landing",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "tablet-landscape",
+    "screen": "registration",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "tablet-landscape",
+    "screen": "tutorial-practice-result",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "tablet-landscape",
+    "screen": "levels",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "tablet-landscape",
+    "screen": "login",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "tablet-landscape",
+    "screen": "round",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "tablet-landscape",
+    "screen": "result",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "tablet-landscape",
+    "screen": "profile",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "zoom-125-equivalent",
+    "screen": "profile",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "zoom-200-equivalent",
+    "screen": "profile",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "tablet-portrait",
+    "screen": "landing",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "tablet-portrait",
+    "screen": "registration",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "tablet-portrait",
+    "screen": "tutorial-practice-result",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "tablet-portrait",
+    "screen": "levels",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "tablet-portrait",
+    "screen": "login",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "tablet-portrait",
+    "screen": "round",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "tablet-portrait",
+    "screen": "result",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "tablet-portrait",
+    "screen": "profile",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "zoom-125-equivalent",
+    "screen": "profile",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "zoom-200-equivalent",
+    "screen": "profile",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "mobile",
+    "screen": "landing",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "mobile",
+    "screen": "registration",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "mobile",
+    "screen": "tutorial-practice-result",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "mobile",
+    "screen": "levels",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "mobile",
+    "screen": "login",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "mobile",
+    "screen": "round",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "mobile",
+    "screen": "result",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "mobile",
+    "screen": "profile",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "zoom-125-equivalent",
+    "screen": "profile",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "zoom-200-equivalent",
+    "screen": "profile",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "mobile-small",
+    "screen": "landing",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "mobile-small",
+    "screen": "registration",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "mobile-small",
+    "screen": "tutorial-practice-result",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "mobile-small",
+    "screen": "levels",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "mobile-small",
+    "screen": "login",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "mobile-small",
+    "screen": "round",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "mobile-small",
+    "screen": "result",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "mobile-small",
+    "screen": "profile",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "zoom-125-equivalent",
+    "screen": "profile",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "zoom-200-equivalent",
+    "screen": "profile",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  },
+  {
+    "viewport": "desktop",
+    "screen": "registration",
+    "status": "loaded",
+    "manropeCyrillic": true,
+    "cormorantCyrillic": true
+  }
+]

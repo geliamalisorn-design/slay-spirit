@@ -1,0 +1,25 @@
+services:
+  app:
+    build: .
+    image: slay-investments:local
+    restart: unless-stopped
+    environment:
+      PORT: "8000"
+      SLAY_DB_PATH: /var/lib/slay/stockguessr.sqlite3
+      SPIRIT_LLM_API_KEY: ${SPIRIT_LLM_API_KEY:-}
+      SPIRIT_LLM_BASE_URL: ${SPIRIT_LLM_BASE_URL:-https://llm-proxy.spirit.t-education.com/v1}
+      SPIRIT_LLM_MODEL: ${SPIRIT_LLM_MODEL:-openai/gpt-6-luna}
+      SLAY_LLM_TIMEOUT: ${SLAY_LLM_TIMEOUT:-6}
+    ports:
+      - "${BIND_ADDRESS:-127.0.0.1}:${APP_PORT:-8000}:8000"
+    volumes:
+      - slay-data:/var/lib/slay
+    healthcheck:
+      test: ["CMD", "python", "-c", "from urllib.request import urlopen; urlopen('http://127.0.0.1:8000/', timeout=3)"]
+      interval: 30s
+      timeout: 5s
+      start_period: 5s
+      retries: 3
+
+volumes:
+  slay-data:

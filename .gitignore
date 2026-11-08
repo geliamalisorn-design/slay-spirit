@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+data/stockguessr.sqlite3
+data/slay_investments.sqlite3
+.venv/
+venv/
+*.log
+.env
