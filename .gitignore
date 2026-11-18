@@ -6,3 +6,4 @@ data/slay_investments.sqlite3
 venv/
 *.log
 .env
+*.db

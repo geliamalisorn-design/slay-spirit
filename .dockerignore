@@ -8,13 +8,11 @@ __pycache__
 *.py[cod]
 *.sqlite3
 *.db
-*.log
+.log*
 .env
 .env.*
 !.env.example
-artifacts
 dist
 tests
-docs
 scripts
 requirements-e2e.txt
